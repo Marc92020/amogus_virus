@@ -1,2 +1,0 @@
-# amogus_virus
-virus
