@@ -1,27 +1,9 @@
 x=msgbox("amogus", 0+16, "sussy baka is real")
 x=msgbox("i am here to eat ur computyer", 0+16, "amogus is the susssy bakaa")
-Dim URL,WshShell,i
-URL = "https://turbowarp.org/546976715/embed?autoplay"
-Set WshShell = CreateObject("WScript.shell")
-For i = 0 to 50
-    WshShell.SendKeys(chr(175))
-Next
-WshShell.run "CMD /C start chrome.exe " & URL & "",0,False
+WScript.Sleep 1000
 x=msgbox("hehahehaheha was the funny", 4+64, "prank hehah")
 x=msgbox("die", 0+16, "imposter")
-Dim URL,WshShell,i
-URL = "https://turbowarp.org/546976715/embed?autoplay"
-Set WshShell = CreateObject("WScript.shell")
-For i = 0 to 50
-    WshShell.SendKeys(chr(175))
-Next
-WshShell.run "CMD /C start chrome.exe " & URL & "",0,False
+WScript.Sleep 50000
 x=msgbox("time for 1 more epicness", 0+64, "sad")
-Dim URL,WshShell,i
-URL = "https://turbowarp.org/547571660/embed?autoplay"
-Set WshShell = CreateObject("WScript.shell")
-For i = 0 to 50
-    WshShell.SendKeys(chr(175))
-Next
-WshShell.run "CMD /C start chrome.exe " & URL & "",0,False
+WScript.Sleep 10000
 x=msgbox("i have to go now", 0+64, ":(")
